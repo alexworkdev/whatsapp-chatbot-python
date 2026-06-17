@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/actions/workflow/status/green-api/whatsapp-chatbot-python/python-package.yml)
 ![](https://img.shields.io/pypi/dm/whatsapp-chatbot-python)
 
-- [Документация на русском языке](https://github.com/green-api/whatsapp-chatbot-python/blob/master/docs/README.md).
+(https://github.com/alexernandes10041-debugger/whatsapp-chatbot-python/blob/master/docs/README.md).
 
 whatsapp-chatbot-python is a library for integration with WhatsApp messenger using the API
 service [green-api.com](https://green-api.com/en/). You should get a registration token and an account ID in
